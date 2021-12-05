@@ -271,8 +271,8 @@
 }
 #link1 {
     position: absolute;
-     right: 19%;
-     top: 182%;
+     right: 18%;
+     top: 212%;
      width: 100px;
      height: 100px;
      z-index: 1;
@@ -281,7 +281,7 @@
 #link2 {
     position: absolute;
      right: 33%;
-     top: 182%;
+     top: 212%;
      width: 100px;
      height: 100px;
     z-index: 1;
@@ -289,20 +289,21 @@
 #link3 {
     position: absolute;
      right: 58%;
-     top: 182%;
+     top: 212%;
      width: 100px;
      height: 100px;
      z-index: 1;
 }
 #link4 {
     position: absolute;
-     right: 73%;
-     top: 182%;
+     right: 72%;
+     top: 212%;
      width: 100px;
      height: 100px;
      z-index: 1;
   
 }
+
 
 .project-link:hover {
   text-decoration: underline;
