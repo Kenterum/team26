@@ -238,6 +238,7 @@
      left: 20%;
      width: 100px;
      height: 100px;
+     z-index: -1;
    
 }
 .badge2 {
@@ -245,18 +246,21 @@
      left: 35%;
      width: 100px;
      height: 100px;
+    z-index: -1;
 }
 .badge3 {
     position: absolute;
      right: 35%;
      width: 100px;
      height: 100px;
+    z-index: -1;
 }
 .badge4 {
     position: absolute;
      right: 20%;
      width: 100px;
      height: 100px;
+     z-index: -1;
 }
 
 .project-link {
@@ -271,6 +275,7 @@
      top: 160%;
      width: 100px;
      height: 100px;
+     z-index: -1;
   
 }
 #link2 {
@@ -279,6 +284,7 @@
      top: 160%;
      width: 100px;
      height: 100px;
+    z-index: -1;
 }
 #link3 {
     position: absolute;
@@ -286,6 +292,7 @@
      top: 160%;
      width: 100px;
      height: 100px;
+     z-index: -1;
 }
 #link4 {
     position: absolute;
@@ -293,7 +300,8 @@
      top: 160%;
      width: 100px;
      height: 100px;
-}
+     z-index: -1;
+} 
 
 .project-link:hover {
   text-decoration: underline;
