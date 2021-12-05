@@ -268,7 +268,7 @@
 #link1 {
     position: absolute;
      right: 18%;
-     top: 170%;
+     top: 160%;
      width: 100px;
      height: 100px;
   
@@ -276,21 +276,21 @@
 #link2 {
     position: absolute;
      right: 33%;
-     top: 170%;
+     top: 160%;
      width: 100px;
      height: 100px;
 }
 #link3 {
     position: absolute;
      right: 57%;
-     top: 170%;
+     top: 160%;
      width: 100px;
      height: 100px;
 }
 #link4 {
     position: absolute;
      right: 72%;
-     top: 170%;
+     top: 160%;
      width: 100px;
      height: 100px;
 }
